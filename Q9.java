@@ -20,4 +20,3 @@ public class Q9
           System.out.println("You are fail");
     }
 }
-
