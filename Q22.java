@@ -6,7 +6,7 @@ public class Q22
     public static void main(String[] args) 
     {
         Scanner sc =new Scanner(System.in);
-        System.out.println("Enter the integer code:");
+        System.out.println("Enter the integer code: ");
         int i=sc.nextInt();
         if(i==5||i==7||i==11||i==24)
         System.out.println("Right Code");
