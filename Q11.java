@@ -10,6 +10,5 @@ class Q11
         a=sc.nextInt();
         cube=a*a*a;
         System.out.println("Cube of "+a+" is:"+cube);
-    }
-    
+    }  
 }
