@@ -1,5 +1,4 @@
 //Program which store value 65 in computer memories and print it.
-
 public class Q1 
 {
     public static void main(String[] args) {
