@@ -10,6 +10,5 @@ class Q10
         a=sc.nextInt();
         sqr=a*a;
         System.out.println("Square of "+a+" is:"+sqr);
-    }
-    
+    } 
 }
