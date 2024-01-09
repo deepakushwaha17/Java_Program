@@ -3,6 +3,7 @@ commission, according to following rules -
  sale up to 25000, commission is 5% of sale, otherwise it is & 7% of sales
   output format -
         commission = .......Rs */
+
 import java.util.*;
 public class Q21
 {
