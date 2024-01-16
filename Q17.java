@@ -1,5 +1,6 @@
 /*Program which store two values 10 and 20. Then print them after 
 swap(exchange) them without using third variable and print them. */
+
 class Q17
 {
     public static void main(String args[])
