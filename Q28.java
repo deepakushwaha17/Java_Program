@@ -1,5 +1,6 @@
 /* program which enter any character then check and print whether it is Capital alphabet, 
  small alphabet, digit or any other special character*/
+
 import java.util.*;
 public class Q28
 {
