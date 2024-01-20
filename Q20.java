@@ -1,5 +1,6 @@
 /*Program which enter se code of a person as M or m for male and F or f For female and check and 
- print whether the given data is male, female or it was wrong code entered by the users. *
+ print whether the given data is male, female or it was wrong code entered by the users. */
+
 import java.util.*;
 public class Q20 
 {
