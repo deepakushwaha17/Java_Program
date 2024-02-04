@@ -1,4 +1,5 @@
 //Program to enter marks in three subjects of a student and calculate its average if the average is 33 or more than print pass otherwise print fail .
+
 import java.util.*;
 public class Q9 
 {
