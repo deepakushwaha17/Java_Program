@@ -1,4 +1,5 @@
 //Program to enter two integers numbers and then calulate and print sum and its average .  
+
 import java.util.*;
 class Q8
 {
