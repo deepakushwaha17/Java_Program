@@ -1,4 +1,5 @@
-//Program to input age of a person and if age is 18 or more ,then print you are adult otherwise print you are minor
+//Program to input age of a person and if age is 18 or more ,then print you are adult otherwise print you are minor.
+
 import java.util.*;
 public class Q5 
 {
