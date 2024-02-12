@@ -1,5 +1,6 @@
 /*Program which enter gender code of a person as M or m for male and F or f for female and then 
 test and print whether the given data is of male or female or it was wrong code enter by user (using switch case)*/
+
 import java.util.*;
 public class Q33
 {
