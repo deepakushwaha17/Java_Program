@@ -1,4 +1,5 @@
 //Program which enter any integer than calculate and print its square.
+
 import java.util.*;
 class Q10 
 {
