@@ -1,5 +1,6 @@
 /*program which enter age of a person if the age is 18 or more then print you are adult otherwise
  print you are minor using Conditional operator [? :] */
+
 import java.util.*;
 public class Q29
 {
