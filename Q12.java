@@ -1,4 +1,5 @@
 //  Program which enter any integer than calculate and print its square and cube.
+
 import java.util.*;
 public class Q12 
 {
