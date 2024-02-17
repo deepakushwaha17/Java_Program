@@ -1,4 +1,5 @@
 //Program which enter any integer then check and print whether it is odd no. or even no.
+
 import java.util.*;
 public class Q18 
 {
